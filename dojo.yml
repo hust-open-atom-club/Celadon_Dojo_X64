@@ -2,7 +2,9 @@ id: celadon
 
 name: 玉虹道馆
 
-type: topic
+type: intermediate
+
+comparator: 1000
 
 award:
-  belt: Rainbow
+  emoji: Rainbow
